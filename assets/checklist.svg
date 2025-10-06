@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" role="img" aria-labelledby="title">
+  <title>Checklist</title>
+  <rect width="100%" height="100%" fill="#f7f3ea"/>
+  <g transform="translate(80,40)" stroke="#0f1b2d" stroke-width="8">
+    <rect x="0" y="0" width="400" height="280" rx="12" fill="#ffffff"/>
+    <path d="M40,60 L120,60 M40,120 L120,120 M40,180 L120,180" stroke="#b0892f"/>
+    <path d="M150,60 L350,60 M150,120 L350,120 M150,180 L350,180" />
+  </g>
+</svg>
