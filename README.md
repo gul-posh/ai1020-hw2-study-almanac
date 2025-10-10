@@ -1,8 +1,8 @@
-# Homework 2 — Build Your Own Website (Topical: Study Almanac)
+# Homework 2(Topical: Study Almanac)
 **MBZUAI AI1020**
 
 **Access method:** External (public link)  
-**Live link:** **[REPLACE WITH YOUR URL]**
+**Live link:** **https://gul-posh.github.io/ai1020-hw2-study-almanac/index.html**
 
 > **Theme / value (one sentence):**  
 > **“Quiet methods for steady study.”**
